@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(1020, 1080, WEBGL); //plano 3D
+  createCanvas(2020, 2080, WEBGL); //plano 3D
    terra=loadImage('terra.jpg')
 }
 
